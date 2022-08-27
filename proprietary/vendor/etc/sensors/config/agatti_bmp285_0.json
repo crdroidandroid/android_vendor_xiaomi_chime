@@ -1,8 +1,8 @@
 {
   "config":
   {
-    "hw_platform": ["IDP", "IOT"],
-    "soc_id": ["441", "471", "473", "474"]
+    "hw_platform": ["IDP"],
+    "soc_id": ["441", "471"]
   },
   "bmp285_0":{
     "owner": "sns_bmp285",

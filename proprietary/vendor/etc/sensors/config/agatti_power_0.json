@@ -1,7 +1,7 @@
 {
   "config":{
-    "hw_platform": ["IDP", "QRD", "IOT"],
-    "soc_id": ["441", "471", "473", "474"]
+    "hw_platform": ["IDP", "QRD"],
+    "soc_id": ["441", "471"]
   },
  "power":{
     "owner": "power_manager",

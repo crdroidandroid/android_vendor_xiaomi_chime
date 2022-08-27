@@ -1,7 +1,7 @@
 {
   "config":{
     "hw_platform": ["QRD"],
-    "soc_id": [ "417", "444", "518"]
+    "soc_id": [ "417", "444"]
   },
   "tmd2725_0":{
     "owner": "sns_tmd2725",

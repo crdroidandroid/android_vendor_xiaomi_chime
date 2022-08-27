@@ -1,8 +1,8 @@
 {
   "config":
   {
-    "hw_platform": ["IDP", "IOT"],
-    "soc_id": ["441", "471", "473", "474"]
+    "hw_platform": ["IDP"],
+    "soc_id": ["441", "471"]
   },
    "ak0991x_0":{
     "owner": "sns_ak0991x",

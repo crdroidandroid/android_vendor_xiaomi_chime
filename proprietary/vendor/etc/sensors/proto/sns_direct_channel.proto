@@ -12,7 +12,7 @@ import "sns_std_type.proto";
 import "sns_std.proto";
 
 // To activate a stream on a channel
-// " get Channel first by sending sns_direct_channel_create_msg -> then send sns_direct_channel_set_ts_offset  -> send sns_direct_channel_set_client_req for sns_direct_channel_stream_id"
+// " get Channel first by sending sns_direct_channel_req_msg -> then send sns_direct_channel_set_ts_offset  -> send sns_direct_channel_set_client_req for sns_direct_channel_stream_id"
 
 // To activate another stream on existing channel
 // "Send sns_direct_channel_set_client_req on existing Channel for new sns_direct_channel_stream_id"
@@ -55,7 +55,7 @@ message sns_direct_channel_stream_id {
 
 
 // Direct channel Creation Request Message
-message sns_direct_channel_create_msg {
+message sns_direct_channel_req_msg {
   // ION fd, size to get Virtual address that can be used by Q6
   message shared_buffer_config {
     required fixed32 fd   = 1;

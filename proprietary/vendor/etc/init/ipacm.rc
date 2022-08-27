@@ -30,5 +30,5 @@ service vendor.ipacm /system/vendor/bin/ipacm
     user radio
     group radio inet
 
-on post-fs-data
+on post-fs
     start vendor.ipacm

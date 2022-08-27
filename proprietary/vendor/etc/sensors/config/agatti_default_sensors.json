@@ -1,7 +1,7 @@
 {
     "config":{
-        "hw_platform": ["IDP","Dragon", "Surf", "QRD", "HDK", "IOT"],
-        "soc_id": ["441", "471", "473", "474"]
+        "hw_platform": ["IDP","Dragon", "Surf", "QRD", "HDK"],
+        "soc_id": ["441", "471"]
     },
 
     "default_sensors": {

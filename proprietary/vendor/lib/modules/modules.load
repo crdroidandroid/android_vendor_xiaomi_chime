@@ -31,5 +31,4 @@ qca_cld3_wlan.ko
 exfat.ko
 audio_aw87359_audio.ko
 audio_aw87519_audio.ko
-rdbg.ko
 qca_cld3_wlan.ko

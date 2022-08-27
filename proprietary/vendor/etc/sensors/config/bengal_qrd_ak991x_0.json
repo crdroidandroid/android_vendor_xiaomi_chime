@@ -2,7 +2,7 @@
   "config":
   {
     "hw_platform": ["QRD"],
-    "soc_id": [ "417", "444", "518"]
+    "soc_id": [ "417", "444"]
   },
    "ak0991x_0":{
     "owner": "sns_ak0991x",
