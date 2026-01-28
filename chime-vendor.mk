@@ -713,7 +713,6 @@ PRODUCT_PACKAGES += \
     libqcbassboost \
     libqcreverb \
     libqcvirt \
-    libshoebox \
     com.qti.eeprom.citrus_ofilm_ov8856_front_eeprom \
     com.qti.eeprom.citrus_sunny_ov8856_front_eeprom \
     com.qti.eeprom.lime_ofilm_ov8856_front_eeprom \
