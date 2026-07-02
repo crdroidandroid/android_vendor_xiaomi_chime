@@ -525,6 +525,7 @@ PRODUCT_PACKAGES += \
     audio.bluetooth_qti.default \
     fingerprint.default \
     fingerprint.silead.default \
+    sound_trigger.primary.bengal \
     vendor.qti.hardware.bluetooth_audio@2.0-impl \
     vendor.qti.hardware.bluetooth_sar@1.1-impl \
     vendor.qti.hardware.btconfigstore@1.0-impl \
